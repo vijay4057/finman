@@ -1,0 +1,2 @@
+INDEX VERSION 1.3+D:\Work\finman2\finman\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2123131708.index
